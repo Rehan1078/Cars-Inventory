@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|e:\\abs\\bscs 5\\visual programming\\car inventory systemvp proj\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|e:\\abs\\bscs 5\\visual programming\\car inventory systemvp proj\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|solutionrelative:aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\aboutus.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|solutionrelative:aboutus.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968296E7-2F9D-4B4A-A18F-B78254474BA5}|Project.csproj|solutionrelative:aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:12:34.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aboutus.Designer.cs",
+              "DocumentMoniker": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Aboutus.Designer.cs",
+              "RelativeDocumentMoniker": "Aboutus.Designer.cs",
+              "ToolTip": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Aboutus.Designer.cs",
+              "RelativeToolTip": "Aboutus.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:00:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aboutus.cs [Design]",
+              "DocumentMoniker": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Aboutus.cs",
+              "RelativeDocumentMoniker": "Aboutus.cs",
+              "ToolTip": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Aboutus.cs [Design]",
+              "RelativeToolTip": "Aboutus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:07:25.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aboutus.resx",
+              "DocumentMoniker": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Aboutus.resx",
+              "RelativeDocumentMoniker": "Aboutus.resx",
+              "ToolTip": "E:\\ABS\\BSCS 5\\Visual Programming\\car inventory systemVP proj\\Aboutus.resx",
+              "RelativeToolTip": "Aboutus.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-30T06:01:36.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
